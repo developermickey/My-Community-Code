@@ -1,0 +1,3 @@
+
+const MONGO_URI =
+  "mongodb+srv://mukeshpathak345:drwXCIBLHFNYdjOR@cluster0.g4s5diy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"; // Change to your DB URI
